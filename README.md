@@ -77,10 +77,11 @@ DOCUMENTATION
 | Document | Version | Link |
 |----------|---------|------|
 | Design Rationale     | 1.0 | [Multi_Row_Playing_Cards_Holder_Design_Rationale](/Documentation/Multi_Row_Playing_Cards_Holder_Design_Rationale_v0.1.pdf) |
+| Maker Checklist      | 1.0 | [Multi_Row_Playing_Cards_Holder_Maker_Checklist](/Documentation/Multi_Row_Playing_Cards_Holder_Maker_Checklist_v1.0.pdf)     |
 | Bill of Materials    | 1.0 | [Multi_Row_Playing_Cards_Holder_BOM](/Documentation/Multi_Row_Playing_Cards_Holder_BOM_v0.1.xlsx) |
-| Assembly Guide       | 1.0 | No Assembly Required |
-| Maker Checklist      | 1.0 | [Multi_Row_Playing_Cards_Holder_Checklist](/Documentation/Multi_Row_Playing_Cards_Holder_Maker_Checklist_v0.1.pdf) |
-| User Quick Guide          | 1.0 | [Multi_Row_Playing_Cards_Holder_Quick_Guide](/Documentation/Multi_Row_Playing_Cards_Holder_Quick_Guide_v0.1.pdf)           |
+| 3D Printing Guide    | 1.0 | [Multi_Row_Playing_Cards_3D_Printing_Guide](/Documentation/Multi_Row_Playing_Cards_3D_Printing_Guide_v1.0.pdf)     |
+| Assembly Guide       | n/a | No Assembly Required |
+| User Quick Guide     | 1.0 | [Multi_Row_Playing_Cards_Holder_Quick_Guide](/Documentation/Multi_Row_Playing_Cards_Holder_Quick_Guide_v0.1.pdf)           |
 | Changelog            | 1.0 | [Multi_Row_Playing_Cards_Holder_Changelog](/Documentation/Multi_Row_Playing_Cards_Holder_Changelog_v0.1.pdf)               |
 
 ### Design Files
