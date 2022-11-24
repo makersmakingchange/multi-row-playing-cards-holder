@@ -40,7 +40,7 @@ PHOTO
 ## More info at
 - [Makers Making Change Project Page](https://makersmakingchange.com/project/multi-row-playing-cards-holder/)
 
-## How to Obtain a Toothpase Squeezer
+## How to Obtain a Multi Row Playing Cards Holder
 ### 1. Do it Yourself (DIY) or Do it Together (DIT)
 
 This is an open-source assistive technology, so anyone is free to build it. All of the files and instructions required to build the Multi Row Playing Cards Holder are contained within this repository. Refer to the Maker Checklist below.
