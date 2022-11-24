@@ -14,16 +14,19 @@ This document includes helper text that will not be displayed when rendered. Any
 TITLE
 Should match the name of the GitHub repository. Choose something descriptive rather than whimsical. 
  --->
- # (todo:Project Title)
+ # Multi Row Playing Cards Holder
 
 <!--- 
 SUMMARY
 A brief summary of the project. What it does, who it is for, how much it costs.
  --->
-The (todo:Project Title) is for making it easier to document Open-Source Assistive Technology devices. It is intended for use by makers. The device is  comprised of off-the-shelf electronics and 3D printed parts. The overall cost of materials is about $8 (plus $8 for component shipping).
+The Multi Row Playing Cards Holder is an assistive device for holding playing cards. This fully 3D-printed device aims to assist those with limited hand dexterity by giving them an alternate means of holding their playing cards. Users will be able to place their cards into the tabletop holder which will discreetly display their cards during gameplay.
+
+This design was created by [Dave Jones](https://www.thingiverse.com/djones1t/designs) and posted on [Printables.com](https://www.thingiverse.com/thing:2863434).
 
 <!--- 
 PHOTO
+
 
  --->
 ![Image Description](Photos/Device_Photo.jpg)
