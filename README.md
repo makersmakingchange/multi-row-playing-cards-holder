@@ -31,13 +31,10 @@ PHOTO
  --->
 ![Image Description](Photos/Device_Photo.jpg)
 
-<!--- 
-## More info at
- - [Makers Making Change Forum Thread](TBD) 
- - [Makers Making Change Project Page](TBD)
- --->
+
 
 ## More info at
+- [Makers Making Change Forum Thread](https://makersmakingchange.com/forum/topic/playing-cards-holder/) 
 - [Makers Making Change Project Page](https://makersmakingchange.com/project/multi-row-playing-cards-holder/)
 
 ## How to Obtain a Multi Row Playing Cards Holder
