@@ -31,28 +31,34 @@ PHOTO
  --->
 ![Image Description](Photos/Device_Photo.jpg)
 
-<!--- 
-## More info at
- - [Makers Making Change Forum Thread](TBD) 
- - [Makers Making Change Project Page](TBD)
- --->
 
+
+## More info at
+- [Makers Making Change Forum Thread](https://makersmakingchange.com/forum/topic/playing-cards-holder/) 
+- [Makers Making Change Project Page](https://makersmakingchange.com/project/multi-row-playing-cards-holder/)
+
+## How to Obtain a Multi Row Playing Cards Holder
+### 1. Do it Yourself (DIY) or Do it Together (DIT)
+
+This is an open-source assistive technology, so anyone is free to build it. All of the files and instructions required to build the Multi Row Playing Cards Holder are contained within this repository. Refer to the Maker Checklist below.
+
+### 2. Request a build of this device
+
+If you would like to obtain a Multi Row Playing Cards Holder , you may submit a build request through the [MMC Library Page](https://makersmakingchange.com/project/multi-row-playing-cards-holder/). The requestor is responsible for the cost of materials and any shipping.
+
+### 3. How to build this device for someone else
+
+If you have the skills and equipment to build this device, and would like to donate your time to create the switch for someone who needs it, visit the [MMC Maker Wanted](https://makersmakingchange.com/maker-wanted/) section.
 
 ## Getting Started
-<!--- 
-Include an overall idea of what major steps are required to build the device.
- --->
 
-### 1. Order the Off-The-Shelf Components
-The [Bill of Materials](/Documentation/ProductTitle_BOM_v0.1.xlsx) lists all of the parts and components required to build the (todo:Project Title). The electronic components may be available locally, but will probably need to be ordered online. 
+### 1. Read the Makers Checklist
 
-### 2. Print the 3D Printable components
-Print the components for the switch tester case and choose an option for the case.
+The Makers Checklist contains a list of tasks to complete to build the device.
 
-All of the files and individual print files can be in the [/Build_Files/3D_Printing_Files](/Build_Files/3D_Printing/) folder.
+### 2. Print the 3D Printable component
 
-### 3. Assemble the (todo:Product Title)
-Reference the [assembly guide](/Documentation/ProductTitle_Assembly_Guide_v1.0.pdf) for the tools and steps required to build each portion.
+The print files can be in the [/Build_Files/3D_Printing_Files](/Build_Files/3D_Printing/) folder.
 
 ## Files
 <!---
@@ -67,21 +73,20 @@ DOCUMENTATION
 --->
 | Document | Version | Link |
 |----------|---------|------|
-| Design Specifications| 1.0 | [ProjectTitle_Design_Specifications](/Documentation/ProjectTitle_Design_Rationale_v0.1.pdf) |
-| Design Rationale     | 1.0 | [ProjectTitle_Design_Rationale](/Documentation/ProjectTitle_Design_Rationale_v0.1.pdf) |
-| Bill of Materials    | 1.0 | [ProjectTitle_BOM](/Documentation/ProjectTitle_BOM_v0.1.xlsx) |
-| Assembly Guide       | 1.0 | No Assembly Required |
-| Maker Checklist      | 1.0 | [ProjectTitle_Checklist](/Documentation/ProjectTitle_Maker_Checklist_v0.1.pdf) |
-| User Quick Guide          | 1.0 | [ProjectTitle_Quick_Guide](/Documentation/ProjectTitle_Quick_Guide_v0.1.pdf)           |
-| Changelog            | 1.0 | [ProjectTitle_Changelog](/Documentation/ProjectTitle_Changelog_v0.1.pdf)               |
+| Design Rationale     | 1.0 | [Multi_Row_Playing_Cards_Holder_Design_Rationale](/Documentation/Multi_Row_Playing_Cards_Holder_Design_Rationale_v0.1.pdf) |
+| Maker Checklist      | 1.0 | [Multi_Row_Playing_Cards_Holder_Maker_Checklist](/Documentation/Multi_Row_Playing_Cards_Holder_Maker_Checklist_v1.0.pdf)     |
+| Bill of Materials    | 1.0 | [Multi_Row_Playing_Cards_Holder_BOM](/Documentation/Multi_Row_Playing_Cards_Holder_BOM_v0.1.xlsx) |
+| 3D Printing Guide    | 1.0 | [Multi_Row_Playing_Cards_3D_Printing_Guide](/Documentation/Multi_Row_Playing_Cards_3D_Printing_Guide_v1.0.pdf)     |
+| Assembly Guide       | n/a | No Assembly Required |
+| User Quick Guide     | 1.0 | [Multi_Row_Playing_Cards_Holder_Quick_Guide](/Documentation/Multi_Row_Playing_Cards_Holder_Quick_Guide_v0.1.pdf)           |
+| Changelog            | 1.0 | [Multi_Row_Playing_Cards_Holder_Changelog](/Documentation/Multi_Row_Playing_Cards_Holder_Changelog_v0.1.pdf)               |
 
 ### Design Files
 <!---
 DESIGN FILES
 If possible, include a copy of original design files to facilitate easy editing and customization.
 --->
- - [CAD Files](/Design_Files/CAD)
- - [PCB Files](/Design_Files/PCB)
+Not available.
 
 ### Build Files
 <!---
@@ -89,17 +94,6 @@ BUILD FILES
 This section i
 --->
  - [3D Printing Files](/Build_Files/3D_Printing)
- - [Custom PCB Files](/Build_Files/Custom_PCB)
- - [V1.0 3MF](/Build_Files/3D_Printing/ProductTitle_v1.0.3mf)
-
-## License
-<!---
-LICENSE
-Choose an appropriate license. We recommend an open-source hardware compatible license.
---->
-Everything needed or used to design, make, test, or prepare the (todo: Project Title) is licensed under the CERN 2.0 Permissive license <https://ohwr.org/project/cernohl/wikis/Documents/CERN-OHL-version-2> (CERN-OHL-P).
-
-Accompanying material such as instruction manuals, videos, and other copyrightable works that are useful but not necessary to design, make, test, or prepare the (todo: Project Title) are published under a Creative Commons Attribution-ShareAlike 4.0 license <https://creativecommons.org/licenses/by-sa/4.0/> (CC BY-SA 4.0).
 
 ## Attribution
 <!---
@@ -107,8 +101,18 @@ ATTRIBUTION
 Include any information related to the development of the design. This may include who identified the initial challenge, who contributed to the design
 --->
 
-The documentation template was created by Makers Making Change and is used under a CC BY-SA 4.0 license. It is available at the following link: https://github.com/makersmakingchange/OpenAT-Template
+Design: [Dave Jones](https://www.thingiverse.com/djones1t/designs)
 
+Documentation by Neil Squire / Makers Making Change.
+
+## License
+<!---
+LICENSE
+Choose an appropriate license. We recommend an open-source hardware compatible license.
+--->
+The design of the [Multi Row Playing Cards Holder](https://www.thingiverse.com/thing:2863434) by Dave Jones is licensed under [Creative Commons (International License) Public Domain](http://creativecommons.org/publicdomain/zero/1.0/).
+
+Accompanying material such as instruction manuals, videos, and other copyrightable works that are useful but not necessary to design, make, test, or prepare the Multi Row Playing Cards Holder are published under a Creative Commons Attribution-ShareAlike 4.0 license <https://creativecommons.org/licenses/by-sa/4.0/> (CC BY-SA 4.0).
 
 
 
