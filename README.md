@@ -29,7 +29,7 @@ PHOTO
 
 
  --->
-<img src="Photos/Multi_Row_Playing_Cards_Holder_Operation_Use.jpg" width="500" alt="A green 3D printed multi row playing cards holder displaying various cards.">
+<img src="Photos/Multi_Row_Playing_Cards_Holder_Operation.jpg" width="500" alt="A blue 3D printed multi row playing cards holder displaying various cards.">
 
 ## More info at
 - [Makers Making Change Forum Thread](https://makersmakingchange.com/forum/topic/playing-cards-holder/) 
@@ -56,7 +56,7 @@ The Makers Checklist contains a list of tasks to complete to build the device.
 
 ### 2. Print the 3D Printable component
 
-The print files can be in the [/Build_Files/3D_Printing_Files](/Build_Files/3D_Print_Files/) folder.
+The print files can be in the [/Build_Files/3D_Printing_Files](/Build_Files/3D_Printing_Files/) folder.
 
 ## Files
 <!---
@@ -76,7 +76,7 @@ DOCUMENTATION
 | Bill of Materials    | 1.0 | [Multi_Row_Playing_Cards_Holder_BOM](/Documentation/Multi_Row_Playing_Cards_Holder_BOM.xlsx) |
 | 3D Printing Guide    | 1.0 | [Multi_Row_Playing_Cards_3D_Printing_Guide](/Documentation/Multi_Row_Playing_Cards_3D_Printing_Guide.pdf)     |
 | Assembly Guide       | n/a | No Assembly Required |
-| User Quick Guide     | 1.0 | [Multi_Row_Playing_Cards_Holder_Quick_Guide](/Documentation/Multi_Row_Playing_Cards_Holder_User_Guide.pdf)           |
+| User Guide     | 1.0 | [Multi_Row_Playing_Cards_Holder_User_Guide](/Documentation/Multi_Row_Playing_Cards_Holder_User_Guide.pdf)           |
 | Changelog            | 1.0 | [Multi_Row_Playing_Cards_Holder_Changelog](/Documentation/Multi_Row_Playing_Cards_Holder_Changelog.pdf)               |
 
 ### Design Files
@@ -91,7 +91,7 @@ Not available.
 BUILD FILES
 This section i
 --->
- - [3D Printing Files](/Build_Files/3D_Print_Files)
+ - [3D Printing Files](/Build_Files/3D_Printing_Files)
 
 ## Attribution
 <!---
@@ -128,4 +128,4 @@ We are committed to cultivating a network of volunteer makers who support people
  - Instagram: [@makersmakingchange](https://www.instagram.com/makersmakingchange)
 
 ### Contact Us
-For technical questions, to get involved, or to share your experience we encourage you to visit [MMC Forum](https://forum.makersmakingchange.com) or contact info@makersmakingchange.com
+For technical questions, to get involved, or to share your experience we encourage you to visit [MMC Forum](https://makersmakingchange.com/forum/) or contact info@makersmakingchange.com
