@@ -29,9 +29,7 @@ PHOTO
 
 
  --->
-![Image Description](Photos/Device_Photo.jpg)
-
-
+<img src="Photos/Multi_Row_Playing_Cards_Holder_Operation_Use.jpg" width="500" alt="A green 3D printed multi row playing cards holder displaying various cards.">
 
 ## More info at
 - [Makers Making Change Forum Thread](https://makersmakingchange.com/forum/topic/playing-cards-holder/) 
@@ -58,7 +56,7 @@ The Makers Checklist contains a list of tasks to complete to build the device.
 
 ### 2. Print the 3D Printable component
 
-The print files can be in the [/Build_Files/3D_Printing_Files](/Build_Files/3D_Printing/) folder.
+The print files can be in the [/Build_Files/3D_Printing_Files](/Build_Files/3D_Print_Files/) folder.
 
 ## Files
 <!---
@@ -74,12 +72,12 @@ DOCUMENTATION
 | Document | Version | Link |
 |----------|---------|------|
 | Design Rationale     | 1.0 | [Multi_Row_Playing_Cards_Holder_Design_Rationale](/Documentation/Multi_Row_Playing_Cards_Holder_Design_Rationale.pdf) |
-| Maker Checklist      | 1.0 | [Multi_Row_Playing_Cards_Holder_Maker_Checklist](/Documentation/Multi_Row_Playing_Cards_Holder_Maker_Checklist_v1.0.pdf)     |
-| Bill of Materials    | 1.0 | [Multi_Row_Playing_Cards_Holder_BOM](/Documentation/Multi_Row_Playing_Cards_Holder_BOM_v0.1.xlsx) |
-| 3D Printing Guide    | 1.0 | [Multi_Row_Playing_Cards_3D_Printing_Guide](/Documentation/Multi_Row_Playing_Cards_3D_Printing_Guide_v1.0.pdf)     |
+| Maker Checklist      | 1.0 | [Multi_Row_Playing_Cards_Holder_Maker_Checklist](/Documentation/Multi_Row_Playing_Cards_Holder_Maker_Checklist.pdf)     |
+| Bill of Materials    | 1.0 | [Multi_Row_Playing_Cards_Holder_BOM](/Documentation/Multi_Row_Playing_Cards_Holder_BOM.xlsx) |
+| 3D Printing Guide    | 1.0 | [Multi_Row_Playing_Cards_3D_Printing_Guide](/Documentation/Multi_Row_Playing_Cards_3D_Printing_Guide.pdf)     |
 | Assembly Guide       | n/a | No Assembly Required |
-| User Quick Guide     | 1.0 | [Multi_Row_Playing_Cards_Holder_Quick_Guide](/Documentation/Multi_Row_Playing_Cards_Holder_Quick_Guide_v0.1.pdf)           |
-| Changelog            | 1.0 | [Multi_Row_Playing_Cards_Holder_Changelog](/Documentation/Multi_Row_Playing_Cards_Holder_Changelog_v0.1.pdf)               |
+| User Quick Guide     | 1.0 | [Multi_Row_Playing_Cards_Holder_Quick_Guide](/Documentation/Multi_Row_Playing_Cards_Holder_User_Guide.pdf)           |
+| Changelog            | 1.0 | [Multi_Row_Playing_Cards_Holder_Changelog](/Documentation/Multi_Row_Playing_Cards_Holder_Changelog.pdf)               |
 
 ### Design Files
 <!---
@@ -93,7 +91,7 @@ Not available.
 BUILD FILES
 This section i
 --->
- - [3D Printing Files](/Build_Files/3D_Printing)
+ - [3D Printing Files](/Build_Files/3D_Print_Files)
 
 ## Attribution
 <!---
