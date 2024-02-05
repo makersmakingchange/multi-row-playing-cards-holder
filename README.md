@@ -26,14 +26,11 @@ This design was created by [Dave Jones](https://www.thingiverse.com/djones1t/des
 
 <!--- 
 PHOTO
-
-
  --->
 <img src="Photos/Multi_Row_Playing_Cards_Holder_Operation.jpg" width="500" alt="A blue 3D printed multi row playing cards holder displaying various cards.">
 
 ## More info at
-- [Makers Making Change Forum Thread](https://makersmakingchange.com/forum/topic/playing-cards-holder/) 
-- [Makers Making Change Project Page](https://makersmakingchange.com/project/multi-row-playing-cards-holder/)
+- [Makers Making Change Project Page]([https://makersmakingchange.com/project/multi-row-playing-cards-holder/](https://www.makersmakingchange.com/s/product/multi-row-playing-cards-holder/01tJR000000690mYAA))
 
 ## How to Obtain a Multi Row Playing Cards Holder
 ### 1. Do it Yourself (DIY) or Do it Together (DIT)
@@ -115,17 +112,21 @@ Accompanying material such as instruction manuals, videos, and other copyrightab
 
 
 ## About Makers Making Change
-<img src="https://www.makersmakingchange.com/wp-content/uploads/logo/mmc_logo.svg" width="500" alt="Makers Making Change Logo">
+[<img src="https://raw.githubusercontent.com/makersmakingchange/makersmakingchange/main/img/mmc_logo.svg" width="500" alt="Makers Making Change Logo">](https://www.makersmakingchange.com/)
 
-Makers Making Change is an initiative of [Neil Squire](https://www.neilsquire.ca/), a Canadian non-profit that uses technology, knowledge, and passion to empower people with disabilities.
+Makers Making Change is a program of [Neil Squire](https://www.neilsquire.ca/), a Canadian non-profit that uses technology, knowledge, and passion to empower people with disabilities.
 
-We are committed to cultivating a network of volunteer makers who support people with disabilities in their communities through cost effective assistive technology. Check out our library of free, open-source assistive technologies.
+Makers Making Change leverages the capacity of community based Makers, Disability Professionals and Volunteers to develop and deliver affordable Open Source Assistive Technologies.
 
  - Website: [www.MakersMakingChange.com](https://www.makersmakingchange.com/)
- - [GitHub](https://github.com/makersmakingchange)
- - [Thingiverse](https://www.thingiverse.com/makersmakingchange/about)
+ - GitHub: [makersmakingchange](https://github.com/makersmakingchange)
  - Twitter: [@makermakechange](https://twitter.com/makermakechange)
  - Instagram: [@makersmakingchange](https://www.instagram.com/makersmakingchange)
+ - Facebook: [makersmakechange](https://www.facebook.com/makersmakechange)
+ - LinkedIn: [Neil Squire Society](https://www.linkedin.com/company/neil-squire-society/)
+ - Thingiverse: [makersmakingchange](https://www.thingiverse.com/makersmakingchange/about)
+ - Printables: [MakersMakingChange](https://www.printables.com/@MakersMakingChange)
 
 ### Contact Us
-For technical questions, to get involved, or to share your experience we encourage you to visit [MMC Forum](https://makersmakingchange.com/forum/) or contact info@makersmakingchange.com
+For technical questions, to get involved, or to share your experience we encourage you to [visit our website](https://www.makersmakingchange.com/) or [contact us](https://www.makersmakingchange.com/s/contact).
+
