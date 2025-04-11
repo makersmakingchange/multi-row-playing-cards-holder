@@ -1,36 +1,17 @@
-<!--- 
-Open Source Assistive Technology: GitHub Readme Template
- --->
-
-<!---
-INSTRUCTIONS
-This is a markdown template for creating the README.md file in a GitHub repository. This file is rendered and displayed automatically when someone visits the repository.
-
-This document includes helper text that will not be displayed when rendered. Any text between the less-than sign + exclamation mark + three hyphen-minus (<!---) and matching three hyphen-minus + greater-than sign will not be displayed. This helper text can be deleted once the corresponding section is completed.
-
- --->
- 
- <!--- 
-TITLE
-Should match the name of the GitHub repository. Choose something descriptive rather than whimsical. 
- --->
+<!---  Open Source Assistive Technology: GitHub Readme Template  --->
+<!---  TITLE Should match the name of the GitHub repository. Choose something descriptive rather than whimsical.   --->
  # Multi Row Playing Cards Holder
 
-<!--- 
-SUMMARY
-A brief summary of the project. What it does, who it is for, how much it costs.
- --->
+<!---  SUMMARY A brief summary of the project. What it does, who it is for, how much it costs.  --->
 The Multi Row Playing Cards Holder is an assistive device for holding playing cards. This fully 3D-printed device aims to assist those with limited hand dexterity by giving them an alternate means of holding their playing cards. Users will be able to place their cards into the tabletop holder which will discreetly display their cards during gameplay.
 
 This design was created by [Dave Jones](https://www.thingiverse.com/djones1t/designs) and posted on [Printables.com](https://www.thingiverse.com/thing:2863434).
 
-<!--- 
-PHOTO
- --->
+<!---  PHOTO  --->
 <img src="Photos/Multi_Row_Playing_Cards_Holder_Operation.jpg" width="500" alt="A blue 3D printed multi row playing cards holder displaying various cards.">
 
-## More info at
-- [Makers Making Change Project Page]([https://makersmakingchange.com/project/multi-row-playing-cards-holder/](https://www.makersmakingchange.com/s/product/multi-row-playing-cards-holder/01tJR000000690mYAA))
+## Makers Making Change Assistive Device Library
+ - https://www.makersmakingchange.com/s/product/multi-row-playing-cards-holder/01tJR000000690mYAA
 
 ## How to Obtain a Multi Row Playing Cards Holder
 ### 1. Do it Yourself (DIY) or Do it Together (DIT)
@@ -56,16 +37,10 @@ The Makers Checklist contains a list of tasks to complete to build the device.
 The print files can be in the [/Build_Files/3D_Printing_Files](/Build_Files/3D_Printing_Files/) folder.
 
 ## Files
-<!---
-FILES
-This section includes all the information and files required to build and modify the device, including documentation, design files, and build files. 
---->
+<!--- FILES This section includes all the information and files required to build and modify the device, including documentation, design files, and build files. --->
 
 ### Documentation
-<!---
-DOCUMENTATION
-
---->
+<!--- DOCUMENTATION --->
 | Document | Version | Link |
 |----------|---------|------|
 | Design Rationale     | 1.0 | [Multi_Row_Playing_Cards_Holder_Design_Rationale](/Documentation/Multi_Row_Playing_Cards_Holder_Design_Rationale.pdf) |
@@ -77,40 +52,30 @@ DOCUMENTATION
 | Changelog            | 1.0 | [Multi_Row_Playing_Cards_Holder_Changelog](/Documentation/Multi_Row_Playing_Cards_Holder_Changelog.pdf)               |
 
 ### Design Files
-<!---
-DESIGN FILES
-If possible, include a copy of original design files to facilitate easy editing and customization.
---->
-Not available.
+<!-- DESIGN FILES -->
+<!-- If possible, include a copy of original design files to facilitate easy editing and customization. --->
+ - Not available.
 
 ### Build Files
-<!---
-BUILD FILES
-This section i
---->
+<!-- BUILD FILES -->
  - [3D Printing Files](/Build_Files/3D_Printing_Files)
 
 ## Attribution
-<!---
-ATTRIBUTION
-Include any information related to the development of the design. This may include who identified the initial challenge, who contributed to the design
---->
-
-Design: [Dave Jones](https://www.thingiverse.com/djones1t/designs)
-
-Documentation by Neil Squire / Makers Making Change.
+<!-- ATTRIBUTION -->
+<!-- Include any information related to the development of the design. This may include who identified the initial challenge, who contributed to the design --->
+ - Design: [Dave Jones](https://www.thingiverse.com/djones1t/designs)
+ - Documentation by Neil Squire / Makers Making Change.
 
 ## License
-<!---
-LICENSE
-Choose an appropriate license. We recommend an open-source hardware compatible license.
---->
+<!--- LICENSE --> 
+<!-- Choose an appropriate license. We recommend an open-source hardware compatible license. --->
 The design of the [Multi Row Playing Cards Holder](https://www.thingiverse.com/thing:2863434) by Dave Jones is licensed under [Creative Commons (International License) Public Domain](http://creativecommons.org/publicdomain/zero/1.0/).
 
 Accompanying material such as instruction manuals, videos, and other copyrightable works that are useful but not necessary to design, make, test, or prepare the Multi Row Playing Cards Holder are published under a Creative Commons Attribution-ShareAlike 4.0 license <https://creativecommons.org/licenses/by-sa/4.0/> (CC BY-SA 4.0).
 
+----
 
-
+<!-- ABOUT MMC START -->
 ## About Makers Making Change
 [<img src="https://raw.githubusercontent.com/makersmakingchange/makersmakingchange/main/img/mmc_logo.svg" width="500" alt="Makers Making Change Logo">](https://www.makersmakingchange.com/)
 
@@ -129,4 +94,4 @@ Makers Making Change leverages the capacity of community based Makers, Disabilit
 
 ### Contact Us
 For technical questions, to get involved, or to share your experience we encourage you to [visit our website](https://www.makersmakingchange.com/) or [contact us](https://www.makersmakingchange.com/s/contact).
-
+<!-- ABOUT MMC END -->
